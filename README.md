@@ -1,4 +1,9 @@
+------------------ Artificial Intelligence discipline from Poli - USP ------------------
+
 # artificial_intelligence_pacman
+
 This repository is about solving pacman's maze using search algorithms as: uniform cost, A*, etc.
 
-Uniform Cost Search
+Thábata Pontes 9868300
+Guilherme Vecchi 9838115
+
