@@ -1,4 +1,3 @@
------------------- Artificial Intelligence discipline from Poli - USP ------------------
 
 # artificial_intelligence_pacman
 
